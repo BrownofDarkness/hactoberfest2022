@@ -214,5 +214,10 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
-}, 
+},
+BrownofDarkness_socials= {
+  "twitter_handle": "Brownofdarkness",
+  "telegram_handle": "@BrownofDarkness",
+  "facebook" : "Brown Djoutsop",
+},
 ] 
